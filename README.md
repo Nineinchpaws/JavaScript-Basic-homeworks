@@ -1,7 +1,7 @@
 # JavaScript-Basic-homeworks
 Homeworks for JavaScript Basic course
 
-JavaScript Basic course consists of 18 lessons / 36 hours
+JavaScript Basic course consists of 21 lessons / 42 hours
 
 1. Finding elements and the DOM tree
 2. Changing the DOM tree. CSS styles
@@ -21,3 +21,4 @@ JavaScript Basic course consists of 18 lessons / 36 hours
 16. Network requests
 17. Practical lesson
 18. Practical lesson
+19. jQuery intro
